@@ -1,7 +1,7 @@
 {
-  "name": "Collabor8-Flat-Design",
-  "dependencies": {
-    "bootstrap": "3.3.*",
-    "fontawesome": "4.5.*"
-  }
+	"name": "Collabor8-Flat-Design",
+	"dependencies": {
+		"bootstrap": "*",
+		"fontawesome": "*"
+	}
 }
